@@ -1,0 +1,6 @@
+div {
+   color:white; 
+   background: linear-gradient(90deg, red , 0%, blue, 50%, green 100%);
+   box-shadow: 5px 5px red;
+   width: 100%;
+}
